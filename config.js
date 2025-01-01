@@ -4,15 +4,15 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = 'Alviin21🗿🗿'
+global.nomerowner = ["254702351657"]
 
 // Apikey 
 
 global.skizo = 'David Cyril'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*DAVID CYRIL*'
+global.packname = '*Alviin21🗿🗿*'
 global.author = 'QUEEN_ANITA-V3'
 
 // cpanel 
@@ -58,9 +58,9 @@ global.rpg = {
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
-global.unavailable = true;     
+global.unavailable = false;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
 global.autoreadmessages = false;   
 ///To always read messages
